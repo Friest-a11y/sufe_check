@@ -302,7 +302,7 @@ if __name__ == '__main__':
     args = init_parser()
 
     uid = ''
-    passwd = ''
+    passwd = None
     stdName = ""
     mobile = ""
     os_type = None
