@@ -301,8 +301,8 @@ def init_parser():
 if __name__ == '__main__':
     args = init_parser()
 
-    uid = None
-    passwd = None
+    uid = '2019111929'
+    passwd = ''
     stdName = ""
     mobile = ""
     os_type = None
