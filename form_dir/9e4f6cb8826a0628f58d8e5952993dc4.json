@@ -21,6 +21,6 @@
   "isReturnFromHighrisk": 0,
   "isVisitRiskArea": 0,
   "riskAreaName": null,
-  "curPlaceRisklevel": "E"
-  vacationGoes: A
+  "curPlaceRisklevel": "E",
+  "vacationGoes": "A"
 }
